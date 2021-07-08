@@ -2,7 +2,7 @@
 	<img src="/src/static/icon.svg" alt="Rocket icon" width="56" align="center" />
 </p>
 
-<p align="center"><a href="https://webstarter.chriscollins.me"><strong>JAMStack Web Starter</strong></a></p>
+<p align="center"><a href="https://webstarter.chriscollins.me"><strong>Stocker App based on the JAMStack Web Starter</strong></a></p>
 
 <p align="center"><em>Eleventy · Tailwind CSS · HTML · CSS · Javascript</em></p>
 
