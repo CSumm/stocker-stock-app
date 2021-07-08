@@ -17,6 +17,15 @@ a {
 	animation: rocket 0.7s linear infinite both;
 }
 
+#menu-toggle:checked + #menu {
+	display: block;
+}
+
+.scroll-shadow {
+	box-shadow:  20px 20px 32px #bebebe,
+	-20px -20px 32px #ffffff;
+}
+
 @keyframes rocket {
 	0% {
 		transform: translate(0);
